@@ -62,6 +62,10 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <h2>Skills</h2>
+          <p>JAVASCRIPT</p>
+          <p>TYPESCRIPT</p>
+          <p>REACT.JS</p>
+          <p>Next.JS</p>
 
           <button>Go</button>
         </motion.div>
@@ -69,7 +73,7 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Skills</h2>
 
           <button>Go</button>
         </motion.div>
@@ -77,7 +81,7 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Skills</h2>
 
           <button>Go</button>
         </motion.div>
@@ -85,8 +89,8 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
-
+          <h2>Skills</h2>
+          <p></p>
           <button>Go</button>
         </motion.div>
       </motion.div>
