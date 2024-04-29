@@ -1,0 +1,12 @@
+.skills {
+  border-radius: round($number: 0);
+  padding: 2px;
+  cursor: pointer;
+  background: white;
+  color: black;
+  transition: color 0.3s;
+
+  &:hover {
+    color: blue($color: #000000);
+  }
+}
