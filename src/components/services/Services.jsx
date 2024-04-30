@@ -61,37 +61,25 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Skills</h2>
-          <p>Javascript</p>
-          <p>Typescript</p>
-          <p>REACT.JS</p>
-          <p>Next.JS</p>
-
-          <button>Go</button>
+          <button>
+            <h1>Frontend</h1>
+          </button>
+          <h2>Javascript</h2>
+          <h2>Typescript</h2>
+          <h2>React.JS</h2>
+          <h2>Next.JS</h2>
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Skills</h2>
-
-          <button>Go</button>
-        </motion.div>
-        <motion.div
-          className="box"
-          whileHover={{ background: "lightgray", color: "black" }}
-        >
-          <h2>Skills</h2>
-
-          <button>Go</button>
-        </motion.div>
-        <motion.div
-          className="box"
-          whileHover={{ background: "lightgray", color: "black" }}
-        >
-          <h2>Skills</h2>
-          <p></p>
-          <button>Go</button>
+          <button>
+            <h1>Backend</h1>
+          </button>
+          <h2>Node.JS</h2>
+          <h2>Mongodb</h2>
+          <h2>Express.js</h2>
+          <h2>Mongoose</h2>
         </motion.div>
       </motion.div>
     </motion.div>
