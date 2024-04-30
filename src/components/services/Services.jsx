@@ -62,8 +62,8 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <h2>Skills</h2>
-          <p>JAVASCRIPT</p>
-          <p>TYPESCRIPT</p>
+          <p>Javascript</p>
+          <p>Typescript</p>
           <p>REACT.JS</p>
           <p>Next.JS</p>
 
