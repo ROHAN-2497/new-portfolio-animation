@@ -8,7 +8,7 @@ const items = [
     color: "from-red-300 to-blue-300",
     title: "Burger Shop",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "/public/burger.png",
+    img: "https://i.ibb.co/6X796fQ/burger.png",
     link: "https://burger-shop-1f68d.web.app/",
   },
   {
@@ -16,7 +16,7 @@ const items = [
     color: "from-blue-300 to-violet-300",
     title: "Woman Perlour Client",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "/public/woman.png",
+    img: "https://i.ibb.co/Wv9ftkG/engin-akyurt-g-m8-EDc4-X6-Q-unsplash-1.png",
     link: "https://main--woman-perlour-with-rohandev.netlify.app/",
   },
 
@@ -25,7 +25,7 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "Rohan Real state",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "/public/realstate.png",
+    img: "https://i.ibb.co/MNfj26f/realstate.png",
     link: "https://real-rohann69s-projects.vercel.app",
   },
 
@@ -34,7 +34,7 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "My Github Account",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "/public/github.png",
+    img: "https://i.ibb.co/VSjMcpV/github.png",
     link: "https://github.com/ROHAN-2497",
   },
 ];
