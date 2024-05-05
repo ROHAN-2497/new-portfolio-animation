@@ -32,6 +32,14 @@ const items = [
   {
     id: 4,
     color: "from-purple-300 to-red-300",
+    title: "Dashboard with Shadcn",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    img: "https://i.ibb.co/z85pjpv/original-53baa311eb2a3682b51a34a7393d408d.png",
+    link: "https://shadcn-dashboard-omega.vercel.app/",
+  },
+  {
+    id: 4,
+    color: "from-purple-300 to-red-300",
     title: "My Github Account",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     img: "https://i.ibb.co/VSjMcpV/github.png",
